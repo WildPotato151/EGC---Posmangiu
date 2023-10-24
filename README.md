@@ -1,9 +1,9 @@
 # EGC - Posmangiu
 
-## Posmangiu Ionut-Nicolae
-## Grupa 3133a
+ Posmangiu Ionuț-Nicolae
+ Grupa 3133a
 
-# Intrebari Laborator 2
+## Laborator 2 - întrebări
 
 - **Ce este un viewport?**
 
