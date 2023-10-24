@@ -1,7 +1,7 @@
 # EGC - Posmangiu
 
-# Posmangiu Ionut-Nicolae
-# Grupa 3133a
+## Posmangiu Ionut-Nicolae
+## Grupa 3133a
 
 # Intrebari Laborator 2
 
