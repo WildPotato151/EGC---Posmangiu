@@ -27,7 +27,7 @@
 
 - **Când este rulată metoda OnRenderFrame()?**
 
- Metoda OnRenderFrame() rulează în fiecare cadru pentru randare.
+  Metoda OnRenderFrame() rulează în fiecare cadru pentru randare.
 
 - **De ce este nevoie ca metoda OnResize() să fie executată cel puțin o dată?**
 
