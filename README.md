@@ -3,7 +3,7 @@
  Posmangiu Ionuț-Nicolae
  Grupa 3133a
 
-## Laborator 2 - întrebări
+## **Laborator 2 - întrebări**
 
 - **Ce este un viewport?**
 
@@ -36,4 +36,7 @@
 - **Ce reprezintă parametrii metodei CreatePerspectiveFieldOfView() și care este domeniul de valori pentru aceștia?**
 
   CreatePerspectiveFieldOfView() creează o matrice de perspectivă cu parametrii: unghi, raport, distanță apropiată și distanță depărtată.
+
+
+  ## **Laborator 3 - întrebări**
  
