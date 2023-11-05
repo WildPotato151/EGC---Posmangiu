@@ -1,0 +1,14 @@
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\Lab3.exe
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\Lab3.pdb
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.dll
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.pdb
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.xml
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\obj\Debug\Lab3.exe
+C:\Users\EON\Desktop\EGC\EGC---Posmangiu\Lab3\obj\Debug\Lab3.pdb
