@@ -24,7 +24,7 @@ namespace Lab3
 
         private List<Vector3> triangleVertices = new List<Vector3>();
 
-        public Program() : base(800, 600, GraphicsMode.Default, "Tema L4 - Posmangiu Ionut 3133a")
+        public Program() : base(800, 600, GraphicsMode.Default, "Tema L3 - Posmangiu Ionut 3133a")
         {
             VSync = VSyncMode.On;
         }
@@ -138,7 +138,7 @@ namespace Lab3
         {
             using (Program program = new Program())
             {
-                Console.WriteLine(" R - red\n G - green\n B - blue\n Mouse click - rotate angle");
+                Console.WriteLine(" Tema L3 - Posmangiu Ionut 3133a\n\n R - red\n G - green\n B - blue\n Mouse click - rotate angle");
                 program.Run(60.0);
 
             }

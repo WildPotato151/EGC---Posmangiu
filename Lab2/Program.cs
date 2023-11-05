@@ -182,6 +182,7 @@ namespace Lab2
 
             using (SimpleWindow3D example = new SimpleWindow3D())
             {
+                Console.WriteLine(" Tema L2 - Posmangiu Ionut 3133a\n\n P - hide/show cube\n Mouse click - change direction");
                 example.Run(30.0, 0.0);
             }
         }
