@@ -57,12 +57,12 @@
 
  ## **Laborator 9 - întrebări**
 
-- ** Utilizați pentru texturare imagini cu transparență și fără. Ce observați?**
+- **Utilizați pentru texturare imagini cu transparență și fără. Ce observați?**
   La texturarea cu imagini cu transparență partea transparentă este înlocuită cu o culoare solidă.
-- ** Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?**
+- **Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?**
   Formatele de imagine ce pot fi aplicate în procesul de texturare sunt: BMP, PNG, JPED, TGA, DDS, HDR, KTX.
-- ** Specificați ce se întâmplă atunci când se modifică culoarea (prin manipularea canalelor RGB) obiectului texturat.**
+- **Specificați ce se întâmplă atunci când se modifică culoarea (prin manipularea canalelor RGB) obiectului texturat.**
   Manipularea canalelor RGB ale unui obiect texturat afectează culoarea finală a obiectului, iar operațiile pot include schimbări uniforme, multiplicare sau adunare cu culorile texturii, și pot implica ajustarea opacității prin canalul alfa.
-- ** Ce deosebiri există între scena ce utilizează obiecte texturate în modul iluminare activat, respectiv dezactivat?**   
+- **Ce deosebiri există între scena ce utilizează obiecte texturate în modul iluminare activat, respectiv dezactivat?**   
   Cu iluminarea activată în OpenGL, obiectele texturate reflectă lumina ambientală și direcțională, producând umbre și efecte de iluminare, în timp ce cu iluminarea dezactivată, obiectele texturate afișează culorile lor originale fără influența luminii.
 
