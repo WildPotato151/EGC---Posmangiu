@@ -53,5 +53,16 @@
   6. Folosirea de culori diferite în desenarea obiectelor 3D ajută la percepția adâncimii, identificarea obiectelor, organizarea, evidențierea detaliilor, estetică și semnalizarea informațiilor. Este important pentru a face o scenă mai ușor de înțeles și mai atractivă vizual.
   
   7. Un gradient de culoare este o tranziție treptată între două sau mai multe culori. În OpenGL, se poate obține un gradient de culoare folosind shadere pentru a interpola culorile între vârfurile primitivelor, astfel obținând o tranziție treptată între ele. Aceasta se face de obicei într-un shader de fragmente, unde se calculează culoarea pentru fiecare fragment în funcție de poziția sa și culorile vârfurilor. 
- 
+
+
+ ## **Laborator 9 - întrebări**
+
+- ** Utilizați pentru texturare imagini cu transparență și fără. Ce observați?**
+  La texturarea cu imagini cu transparență partea transparentă este înlocuită cu o culoare solidă.
+- ** Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?**
+  Formatele de imagine ce pot fi aplicate în procesul de texturare sunt: BMP, PNG, JPED, TGA, DDS, HDR, KTX.
+- ** Specificați ce se întâmplă atunci când se modifică culoarea (prin manipularea canalelor RGB) obiectului texturat.**
+  Manipularea canalelor RGB ale unui obiect texturat afectează culoarea finală a obiectului, iar operațiile pot include schimbări uniforme, multiplicare sau adunare cu culorile texturii, și pot implica ajustarea opacității prin canalul alfa.
+- ** Ce deosebiri există între scena ce utilizează obiecte texturate în modul iluminare activat, respectiv dezactivat?**   
+  Cu iluminarea activată în OpenGL, obiectele texturate reflectă lumina ambientală și direcțională, producând umbre și efecte de iluminare, în timp ce cu iluminarea dezactivată, obiectele texturate afișează culorile lor originale fără influența luminii.
 
